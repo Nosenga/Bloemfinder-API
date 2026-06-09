@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BloemFinder.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb907a50753187e27d479a49d174b7c4db99bd75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d39ea82c5d003dd15025377815342616645d30d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BloemFinder.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BloemFinder.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
